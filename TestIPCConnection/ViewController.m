@@ -12,7 +12,7 @@
 
 - (void)viewDidLoad {
 	[super viewDidLoad];
-	// test
+	// test2
 
 	// Do any additional setup after loading the view.
 }
